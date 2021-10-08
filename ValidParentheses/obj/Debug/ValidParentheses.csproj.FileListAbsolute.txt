@@ -1,0 +1,6 @@
+D:\BankAccountNS\ValidParentheses\bin\Debug\ValidParentheses.exe
+D:\BankAccountNS\ValidParentheses\bin\Debug\ValidParentheses.pdb
+D:\BankAccountNS\ValidParentheses\obj\Debug\ValidParentheses.csprojAssemblyReference.cache
+D:\BankAccountNS\ValidParentheses\obj\Debug\ValidParentheses.csproj.CoreCompileInputs.cache
+D:\BankAccountNS\ValidParentheses\obj\Debug\ValidParentheses.exe
+D:\BankAccountNS\ValidParentheses\obj\Debug\ValidParentheses.pdb

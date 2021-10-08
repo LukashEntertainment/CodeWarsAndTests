@@ -1,0 +1,6 @@
+D:\BankAccountNS\DigitalRoot\bin\Debug\DigitalRoot.exe
+D:\BankAccountNS\DigitalRoot\bin\Debug\DigitalRoot.pdb
+D:\BankAccountNS\DigitalRoot\obj\Debug\DigitalRoot.csprojAssemblyReference.cache
+D:\BankAccountNS\DigitalRoot\obj\Debug\DigitalRoot.csproj.CoreCompileInputs.cache
+D:\BankAccountNS\DigitalRoot\obj\Debug\DigitalRoot.exe
+D:\BankAccountNS\DigitalRoot\obj\Debug\DigitalRoot.pdb

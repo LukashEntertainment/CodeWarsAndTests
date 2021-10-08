@@ -1,0 +1,6 @@
+D:\BankAccountNS\NarcissisticNumber\bin\Debug\NarcissisticNumber.exe
+D:\BankAccountNS\NarcissisticNumber\bin\Debug\NarcissisticNumber.pdb
+D:\BankAccountNS\NarcissisticNumber\obj\Debug\NarcissisticNumber.csprojAssemblyReference.cache
+D:\BankAccountNS\NarcissisticNumber\obj\Debug\NarcissisticNumber.csproj.CoreCompileInputs.cache
+D:\BankAccountNS\NarcissisticNumber\obj\Debug\NarcissisticNumber.exe
+D:\BankAccountNS\NarcissisticNumber\obj\Debug\NarcissisticNumber.pdb

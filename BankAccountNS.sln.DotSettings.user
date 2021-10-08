@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=af5fbc5b_002D6e98_002D4583_002D8859_002D866ffee996b2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Debit_WithValidAmount_UpdatesBalance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::8042C834-BAA1-4234-BBBF-79FE20360849::.NETFramework,Version=v4.7.2::ValidParenthesesTests.ParenthesesTests.ValidParenthesesMethod_TheoryTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3D164877-ED70-4C9C-8A5D-F9BBF813E08B::.NETFramework,Version=v4.7.2::NarcissisticNumberTests.NarcissisticNumberCheckTests.NarcissisticNumberCheck_CorrectTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3D164877-ED70-4C9C-8A5D-F9BBF813E08B::.NETFramework,Version=v4.7.2::NarcissisticNumberTests.NarcissisticNumberCheckTests.NarcissisticNumberCheck_incorrectTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
